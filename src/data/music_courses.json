@@ -1,0 +1,74 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our complete beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Essentials",
+            "slug": "piano-essentials",
+            "description": "Master the fundamentals of playing piano with our comprehensive beginner's guide.",
+            "price": 129.99,
+            "instructor": "Emily Smith",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Violin Basics",
+            "slug": "violin-basics",
+            "description": "Discover the world of violin playing from scratch, with easy-to-follow lessons.",
+            "price": 109.99,
+            "instructor": "Michael Johnson",
+            "isFeatured": false,
+            "image": "/courses/violin.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drum Mastery",
+            "slug": "drum-mastery",
+            "description": "Unlock your rhythm potential with our intensive drumming course suitable for all levels.",
+            "price": 149.99,
+            "instructor": "Alex Rodriguez",
+            "isFeatured": true,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Flute Foundations",
+            "slug": "flute-foundations",
+            "description": "Embark on a melodic journey with our beginner's guide to playing the flute.",
+            "price": 79.99,
+            "instructor": "Sarah Johnson",
+            "isFeatured": false,
+            "image": "/courses/flute.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Saxophone Express",
+            "slug": "saxophone-express",
+            "description": "Learn to play the saxophone with style and finesse in our dynamic course.",
+            "price": 119.99,
+            "instructor": "David Williams",
+            "isFeatured": true,
+            "image": "/courses/saxophone.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Trumpet Techniques",
+            "slug": "trumpet-techniques",
+            "description": "Master the art of playing the trumpet with expert techniques and exercises.",
+            "price": 139.99,
+            "instructor": "Chris Thompson",
+            "isFeatured": false,
+            "image": "/courses/trumpet.jpg"
+        }
+    ]
+}
