@@ -1,3 +1,8 @@
+Live website link: https://teach-me-five.vercel.app/
+
+- The website is built using Next.js, typescript.
+- All the fancy UI has been integrated from Acertinity UI(https://ui.aceternity.com/).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
